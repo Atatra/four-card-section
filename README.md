@@ -13,8 +13,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Atatra/four-card-section)
+- Live Site URL: [Vercel](https://four-card-section-black.vercel.app/)
 
 ## My process
 
@@ -48,4 +46,4 @@ I applied what I learnt about CSS Grid.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Atatra)
+- Frontend Mentor - [@Atatra](https://www.frontendmentor.io/profile/Atatra)
